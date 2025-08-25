@@ -1,0 +1,797 @@
+Image,Model,Ground Truth,Prediction,WER,CER,Fuzzy Accuracy,Exact Accuracy
+doc_1,TrOCR,"ABC Multispecialty Hospital
+Visit ID: 1a3d1fa7-bc89-40a9-a3b8-c1e9392456de
+Date: 2025-07-16
+
+Patient Name: Allison Hill
+Age: 52    Gender: Female
+Blood Pressure: 108/71 mmHg    Pulse: 85 bpm    Temperature: 99.1 F
+
+Diagnosis:
+All behavior discussion own night respond.
+
+Medications:
+- Science 250mg, Twice daily
+Offer 250mg, After meals
+Kind 250mg, After meals
+
+Doctor Notes:
+Operation speak according south recently future choice. Bill here grow gas enough analysis.
+
+Doctor: Dr. Stephanie Miller
+Signature: ________________",0 0,1.0,0.9941291585127201,0.0,0
+doc_1,Donut,"ABC Multispecialty Hospital
+Visit ID: 1a3d1fa7-bc89-40a9-a3b8-c1e9392456de
+Date: 2025-07-16
+
+Patient Name: Allison Hill
+Age: 52    Gender: Female
+Blood Pressure: 108/71 mmHg    Pulse: 85 bpm    Temperature: 99.1 F
+
+Diagnosis:
+All behavior discussion own night respond.
+
+Medications:
+- Science 250mg, Twice daily
+Offer 250mg, After meals
+Kind 250mg, After meals
+
+Doctor Notes:
+Operation speak according south recently future choice. Bill here grow gas enough analysis.
+
+Doctor: Dr. Stephanie Miller
+Signature: ________________",<s_docvqa><s_question>what is written?</s_question> . <> Multispecialty Hospital Hospital Hospital Hospital Visit ID. 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1,7.0,1.837573385518591,0.010296010296010296,0
+doc_1,Pix2Struct,"ABC Multispecialty Hospital
+Visit ID: 1a3d1fa7-bc89-40a9-a3b8-c1e9392456de
+Date: 2025-07-16
+
+Patient Name: Allison Hill
+Age: 52    Gender: Female
+Blood Pressure: 108/71 mmHg    Pulse: 85 bpm    Temperature: 99.1 F
+
+Diagnosis:
+All behavior discussion own night respond.
+
+Medications:
+- Science 250mg, Twice daily
+Offer 250mg, After meals
+Kind 250mg, After meals
+
+Doctor Notes:
+Operation speak according south recently future choice. Bill here grow gas enough analysis.
+
+Doctor: Dr. Stephanie Miller
+Signature: ________________",What text is written?>,1.0,0.9647749510763209,0.007532956685499058,0
+doc_1,EasyOCR,"ABC Multispecialty Hospital
+Visit ID: 1a3d1fa7-bc89-40a9-a3b8-c1e9392456de
+Date: 2025-07-16
+
+Patient Name: Allison Hill
+Age: 52    Gender: Female
+Blood Pressure: 108/71 mmHg    Pulse: 85 bpm    Temperature: 99.1 F
+
+Diagnosis:
+All behavior discussion own night respond.
+
+Medications:
+- Science 250mg, Twice daily
+Offer 250mg, After meals
+Kind 250mg, After meals
+
+Doctor Notes:
+Operation speak according south recently future choice. Bill here grow gas enough analysis.
+
+Doctor: Dr. Stephanie Miller
+Signature: ________________",ABC Multispecialty Hcepital Visit ID Ia3dIfa7-bc89-40a9-a318-cle9392458de Date: 2025-07-18 Patient Name: Allison Hill Pge: 52 Gender: Female Blood Pressure: 108/71 mmHg Pulse: 85 bpm Temperature: 99.1 Diagncsis All behavior discussion own night respond. Medications Science 250mg Tivice daily Offer 250mg After meals Kind 250mg After meals Doctor Notes Operation speak according south recently future choice: Bill here grow gasenoughanalysis Doctor: Dr: Stephanie Miller Signature:,0.29411764705882354,0.08806262230919765,0.6935483870967742,0
+doc_10,TrOCR,"ABC Multispecialty Hospital
+Visit ID: 1a50aec3-aabc-45fa-bfe1-2e47ae9bec36
+Date: 2025-07-16
+
+Patient Name: Amanda Howard
+Age: 54    Gender: Female
+Blood Pressure: 110/82 mmHg    Pulse: 63 bpm    Temperature: 98.7 F
+
+Diagnosis:
+See understand door class son computer include conference.
+
+Medications:
+- Window 500mg, Twice daily
+Go 500mg, Once daily
+Stay 1g, Twice daily
+
+Doctor Notes:
+Environment skin blue the teach. Current truth glass star the. Age cover foreign ten whom.
+
+Doctor: Dr. Justin Baxter
+Signature: ________________",0 0,1.0,0.9941860465116279,0.0,0
+doc_10,Donut,"ABC Multispecialty Hospital
+Visit ID: 1a50aec3-aabc-45fa-bfe1-2e47ae9bec36
+Date: 2025-07-16
+
+Patient Name: Amanda Howard
+Age: 54    Gender: Female
+Blood Pressure: 110/82 mmHg    Pulse: 63 bpm    Temperature: 98.7 F
+
+Diagnosis:
+See understand door class son computer include conference.
+
+Medications:
+- Window 500mg, Twice daily
+Go 500mg, Once daily
+Stay 1g, Twice daily
+
+Doctor Notes:
+Environment skin blue the teach. Current truth glass star the. Age cover foreign ten whom.
+
+Doctor: Dr. Justin Baxter
+Signature: ________________",<s_docvqa><s_question>what is written?</s_question>---()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()()()()()()()()()()()()()()()()())()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()'s()'()'()()()()()>()>()>()>(>(>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>,1.0,0.939922480620155,0.01282051282051282,0
+doc_10,Pix2Struct,"ABC Multispecialty Hospital
+Visit ID: 1a50aec3-aabc-45fa-bfe1-2e47ae9bec36
+Date: 2025-07-16
+
+Patient Name: Amanda Howard
+Age: 54    Gender: Female
+Blood Pressure: 110/82 mmHg    Pulse: 63 bpm    Temperature: 98.7 F
+
+Diagnosis:
+See understand door class son computer include conference.
+
+Medications:
+- Window 500mg, Twice daily
+Go 500mg, Once daily
+Stay 1g, Twice daily
+
+Doctor Notes:
+Environment skin blue the teach. Current truth glass star the. Age cover foreign ten whom.
+
+Doctor: Dr. Justin Baxter
+Signature: ________________",What text is written?.>,1.0,0.9612403100775194,0.0111731843575419,0
+doc_10,EasyOCR,"ABC Multispecialty Hospital
+Visit ID: 1a50aec3-aabc-45fa-bfe1-2e47ae9bec36
+Date: 2025-07-16
+
+Patient Name: Amanda Howard
+Age: 54    Gender: Female
+Blood Pressure: 110/82 mmHg    Pulse: 63 bpm    Temperature: 98.7 F
+
+Diagnosis:
+See understand door class son computer include conference.
+
+Medications:
+- Window 500mg, Twice daily
+Go 500mg, Once daily
+Stay 1g, Twice daily
+
+Doctor Notes:
+Environment skin blue the teach. Current truth glass star the. Age cover foreign ten whom.
+
+Doctor: Dr. Justin Baxter
+Signature: ________________",ABC Multispecialty Hcspital Visit ID Ia5Oaec3-aabc 45la-ble1-2e47ae9bec36 Date: 2025-07-16 Patient Name: Amanda Hoivard Age.54   Gender: Female Blood Pressure: 110/82 mmHg Pulse. 63 bom Temperature: 98.7 Diagncsis See understand door classson computer include Conietenca Medications - Window 50Omg Tiice daily Go5OOmg Once daily Stay Ig Tiice daily Doctor Notes Environmentskin blue the teach Currenttruth Ilass star the: Pge cover tenihom Doctor: Dr: Justin Baxter Signatule: loreign,0.5,0.13372093023255813,0.6132264529058116,0
+doc_2,TrOCR,"ABC Multispecialty Hospital
+Visit ID: d453dd32-4b0d-4b41-8d52-88f1142c3fe8
+Date: 2025-07-16
+
+Patient Name: Calvin Nielsen
+Age: 46    Gender: Female
+Blood Pressure: 98/60 mmHg    Pulse: 100 bpm    Temperature: 99.2 F
+
+Diagnosis:
+Relate animal direction eye bag.
+
+Medications:
+- Early 250mg, After meals
+Trial 500mg, Twice daily
+Blood 1g, After meals
+
+Doctor Notes:
+Law street class great prove. Participant commercial rock clear. Establish understand read detail food shoulder.
+
+Doctor: Dr. Stacey Ward
+Signature: ________________",0 0,1.0,0.9941747572815534,0.0,0
+doc_2,Donut,"ABC Multispecialty Hospital
+Visit ID: d453dd32-4b0d-4b41-8d52-88f1142c3fe8
+Date: 2025-07-16
+
+Patient Name: Calvin Nielsen
+Age: 46    Gender: Female
+Blood Pressure: 98/60 mmHg    Pulse: 100 bpm    Temperature: 99.2 F
+
+Diagnosis:
+Relate animal direction eye bag.
+
+Medications:
+- Early 250mg, After meals
+Trial 500mg, Twice daily
+Blood 1g, After meals
+
+Doctor Notes:
+Law street class great prove. Participant commercial rock clear. Establish understand read detail food shoulder.
+
+Doctor: Dr. Stacey Ward
+Signature: ________________",<s_docvqa><s_question>what is written?</s_question> .co.kr d----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,1.0,0.996116504854369,0.009560229445506692,0
+doc_2,Pix2Struct,"ABC Multispecialty Hospital
+Visit ID: d453dd32-4b0d-4b41-8d52-88f1142c3fe8
+Date: 2025-07-16
+
+Patient Name: Calvin Nielsen
+Age: 46    Gender: Female
+Blood Pressure: 98/60 mmHg    Pulse: 100 bpm    Temperature: 99.2 F
+
+Diagnosis:
+Relate animal direction eye bag.
+
+Medications:
+- Early 250mg, After meals
+Trial 500mg, Twice daily
+Blood 1g, After meals
+
+Doctor Notes:
+Law street class great prove. Participant commercial rock clear. Establish understand read detail food shoulder.
+
+Doctor: Dr. Stacey Ward
+Signature: ________________",What text is written?.>,1.0,0.9631067961165048,0.014925373134328358,0
+doc_2,EasyOCR,"ABC Multispecialty Hospital
+Visit ID: d453dd32-4b0d-4b41-8d52-88f1142c3fe8
+Date: 2025-07-16
+
+Patient Name: Calvin Nielsen
+Age: 46    Gender: Female
+Blood Pressure: 98/60 mmHg    Pulse: 100 bpm    Temperature: 99.2 F
+
+Diagnosis:
+Relate animal direction eye bag.
+
+Medications:
+- Early 250mg, After meals
+Trial 500mg, Twice daily
+Blood 1g, After meals
+
+Doctor Notes:
+Law street class great prove. Participant commercial rock clear. Establish understand read detail food shoulder.
+
+Doctor: Dr. Stacey Ward
+Signature: ________________","ABC Multispecialty Hcspital Visit ID d453dd32-4b0d-4b41-8d52-8861142c3/e8 Date: 2025-07-16 Patient Name: Calvin Nielsen Pge: 48 Gender: Female Blood Pressure: 98,80 mmHg Pulse: bom Temperature: 99.2 F Diagncsis Relate animaldirectioneye bag: Medications - Early 250mg After meals Trial 500mg Tiice daily Blood Ig After meals Doctor Notes Law street class great prove Participantcommercialmock clear: Establish understand read detail food shoulder: Doctor: Dr: Stacey Ward Signature:",0.391304347826087,0.09514563106796116,0.7342026078234705,0
+doc_3,TrOCR,"ABC Multispecialty Hospital
+Visit ID: 3602f8ac-10f1-4c81-848a-aa9e66b2bc5b
+Date: 2025-07-16
+
+Patient Name: Rodney Trujillo
+Age: 70    Gender: Male
+Blood Pressure: 140/81 mmHg    Pulse: 86 bpm    Temperature: 99.4 F
+
+Diagnosis:
+Pretty how trip learn enter.
+
+Medications:
+- Employee 250mg, Once daily
+
+Doctor Notes:
+Enjoy once today human despite young meeting. Sense technology check civil. Others his other life edge network.
+
+Doctor: Dr. Latoya Robbins
+Signature: ________________",1955 56,1.0,0.987152034261242,0.016877637130801686,0
+doc_3,Donut,"ABC Multispecialty Hospital
+Visit ID: 3602f8ac-10f1-4c81-848a-aa9e66b2bc5b
+Date: 2025-07-16
+
+Patient Name: Rodney Trujillo
+Age: 70    Gender: Male
+Blood Pressure: 140/81 mmHg    Pulse: 86 bpm    Temperature: 99.4 F
+
+Diagnosis:
+Pretty how trip learn enter.
+
+Medications:
+- Employee 250mg, Once daily
+
+Doctor Notes:
+Enjoy once today human despite young meeting. Sense technology check civil. Others his other life edge network.
+
+Doctor: Dr. Latoya Robbins
+Signature: ________________",<s_docvqa><s_question>what is written?</s_question> - - 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0,7.73015873015873,2.006423982869379,0.004056795131845842,0
+doc_3,Pix2Struct,"ABC Multispecialty Hospital
+Visit ID: 3602f8ac-10f1-4c81-848a-aa9e66b2bc5b
+Date: 2025-07-16
+
+Patient Name: Rodney Trujillo
+Age: 70    Gender: Male
+Blood Pressure: 140/81 mmHg    Pulse: 86 bpm    Temperature: 99.4 F
+
+Diagnosis:
+Pretty how trip learn enter.
+
+Medications:
+- Employee 250mg, Once daily
+
+Doctor Notes:
+Enjoy once today human despite young meeting. Sense technology check civil. Others his other life edge network.
+
+Doctor: Dr. Latoya Robbins
+Signature: ________________",What text is written?.> <img_src=1011-4-281-4-,1.0,0.9464668094218416,0.007858546168958742,0
+doc_3,EasyOCR,"ABC Multispecialty Hospital
+Visit ID: 3602f8ac-10f1-4c81-848a-aa9e66b2bc5b
+Date: 2025-07-16
+
+Patient Name: Rodney Trujillo
+Age: 70    Gender: Male
+Blood Pressure: 140/81 mmHg    Pulse: 86 bpm    Temperature: 99.4 F
+
+Diagnosis:
+Pretty how trip learn enter.
+
+Medications:
+- Employee 250mg, Once daily
+
+Doctor Notes:
+Enjoy once today human despite young meeting. Sense technology check civil. Others his other life edge network.
+
+Doctor: Dr. Latoya Robbins
+Signature: ________________","ABC Multispecialty Hcspital Visit ID 3802/8ac IOf1-481-848a-aa9e86b2bc5b Date: 2025-07-16 Patient Name: Fodney Trujillo Pge: 70 Gender: Male Blood Pressule: 40,81 mmHg Pulse. 86 bom Temperature: 99.42 Diagncsis Pretty how trip learnenter Medications Employee 250mg Once daily Doctor Notes Enjoy once today human despite meeting: Sense technology check civil Others hisother lite edge network Doctor: Dr: Latoya Fobbins Signature: young",0.4603174603174603,0.11991434689507495,0.6186252771618626,0
+doc_4,TrOCR,"ABC Multispecialty Hospital
+Visit ID: 444ea7c8-c039-4710-8976-e334e2817efd
+Date: 2025-07-16
+
+Patient Name: Melanie Wilson
+Age: 88    Gender: Female
+Blood Pressure: 134/78 mmHg    Pulse: 78 bpm    Temperature: 99.5 F
+
+Diagnosis:
+Law west then enjoy.
+
+Medications:
+- Month 1g, Twice daily
+
+Doctor Notes:
+Tree that fear police participant check several. Well two truth out major born guy.
+
+Doctor: Dr. Gina Carter
+Signature: ________________",1955 56,1.0,0.9882075471698113,0.02320185614849188,0
+doc_4,Donut,"ABC Multispecialty Hospital
+Visit ID: 444ea7c8-c039-4710-8976-e334e2817efd
+Date: 2025-07-16
+
+Patient Name: Melanie Wilson
+Age: 88    Gender: Female
+Blood Pressure: 134/78 mmHg    Pulse: 78 bpm    Temperature: 99.5 F
+
+Diagnosis:
+Law west then enjoy.
+
+Medications:
+- Month 1g, Twice daily
+
+Doctor Notes:
+Tree that fear police participant check several. Well two truth out major born guy.
+
+Doctor: Dr. Gina Carter
+Signature: ________________",<s_docvqa><s_question>what is written?</s_question> - - 3 4e2817e() Date: 2026-07-18 Patient Name. Melanie Wilson Age: 88 .ender. Female Blood Pressure. 13:478 mmHg....................................................................................................................................................................................................................................................................................................................................'...............................'.......'s....'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.'.',0.8813559322033898,1.080188679245283,0.10204081632653061,0
+doc_4,Pix2Struct,"ABC Multispecialty Hospital
+Visit ID: 444ea7c8-c039-4710-8976-e334e2817efd
+Date: 2025-07-16
+
+Patient Name: Melanie Wilson
+Age: 88    Gender: Female
+Blood Pressure: 134/78 mmHg    Pulse: 78 bpm    Temperature: 99.5 F
+
+Diagnosis:
+Law west then enjoy.
+
+Medications:
+- Month 1g, Twice daily
+
+Doctor Notes:
+Tree that fear police participant check several. Well two truth out major born guy.
+
+Doctor: Dr. Gina Carter
+Signature: ________________",What text is written?.> <img_src=ABC-Minispecialty-Hospital-Visit-,1.0,0.9033018867924528,0.012345679012345678,0
+doc_4,EasyOCR,"ABC Multispecialty Hospital
+Visit ID: 444ea7c8-c039-4710-8976-e334e2817efd
+Date: 2025-07-16
+
+Patient Name: Melanie Wilson
+Age: 88    Gender: Female
+Blood Pressure: 134/78 mmHg    Pulse: 78 bpm    Temperature: 99.5 F
+
+Diagnosis:
+Law west then enjoy.
+
+Medications:
+- Month 1g, Twice daily
+
+Doctor Notes:
+Tree that fear police participant check several. Well two truth out major born guy.
+
+Doctor: Dr. Gina Carter
+Signature: ________________",ABC Multispecialty Hcspital VisitID 444ea7c8-c039-4710-8976-e334e2817efd Date: 2025-07-16 Patient Name: Melanie Wilson Pge: 88 Gender: Female Blood Pressure: 13478 mmHg Pulse: 78 bpm Temperature: 99.5 Diagncsis Law west thenenjoy: Medications - Month Ig Twice daily Doctor Notes Tree that tear police participantcheck several Welltwotruthout major born Doctor: Dr: Gina Carter Signature: guy,0.3898305084745763,0.10141509433962265,0.6331288343558282,0
+doc_5,TrOCR,"ABC Multispecialty Hospital
+Visit ID: 15ed6269-1429-4c07-b26b-4776913e4de2
+Date: 2025-07-16
+
+Patient Name: Dr. Cynthia Allen
+Age: 21    Gender: Female
+Blood Pressure: 126/64 mmHg    Pulse: 68 bpm    Temperature: 99.4 F
+
+Diagnosis:
+She campaign little near enter their institution.
+
+Medications:
+- Development 500mg, Once daily
+
+Doctor Notes:
+Require human public health tonight. Building different full open discover detail audience. Arrive attack all form method everything magazine much.
+
+Doctor: Dr. Rose Spence
+Signature: ________________",0 1,1.0,0.9943181818181818,0.007532956685499058,0
+doc_5,Donut,"ABC Multispecialty Hospital
+Visit ID: 15ed6269-1429-4c07-b26b-4776913e4de2
+Date: 2025-07-16
+
+Patient Name: Dr. Cynthia Allen
+Age: 21    Gender: Female
+Blood Pressure: 126/64 mmHg    Pulse: 68 bpm    Temperature: 99.4 F
+
+Diagnosis:
+She campaign little near enter their institution.
+
+Medications:
+- Development 500mg, Once daily
+
+Doctor Notes:
+Require human public health tonight. Building different full open discover detail audience. Arrive attack all form method everything magazine much.
+
+Doctor: Dr. Rose Spence
+Signature: ________________",<s_docvqa><s_question>what is written?</s_question>--()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()-()>>>>>>>>>>>>>>>>>>>>>>>>,1.0,0.9450757575757576,0.005509641873278237,0
+doc_5,Pix2Struct,"ABC Multispecialty Hospital
+Visit ID: 15ed6269-1429-4c07-b26b-4776913e4de2
+Date: 2025-07-16
+
+Patient Name: Dr. Cynthia Allen
+Age: 21    Gender: Female
+Blood Pressure: 126/64 mmHg    Pulse: 68 bpm    Temperature: 99.4 F
+
+Diagnosis:
+She campaign little near enter their institution.
+
+Medications:
+- Development 500mg, Once daily
+
+Doctor Notes:
+Require human public health tonight. Building different full open discover detail audience. Arrive attack all form method everything magazine much.
+
+Doctor: Dr. Rose Spence
+Signature: ________________",What text is written?.>,1.0,0.9659090909090909,0.0,0
+doc_5,EasyOCR,"ABC Multispecialty Hospital
+Visit ID: 15ed6269-1429-4c07-b26b-4776913e4de2
+Date: 2025-07-16
+
+Patient Name: Dr. Cynthia Allen
+Age: 21    Gender: Female
+Blood Pressure: 126/64 mmHg    Pulse: 68 bpm    Temperature: 99.4 F
+
+Diagnosis:
+She campaign little near enter their institution.
+
+Medications:
+- Development 500mg, Once daily
+
+Doctor Notes:
+Require human public health tonight. Building different full open discover detail audience. Arrive attack all form method everything magazine much.
+
+Doctor: Dr. Rose Spence
+Signature: ________________","ABC Multispecialty Hcspital Visit ID 15ed8289- 429-4c07-b28b-4778913e4de2 Date: 2025-07-16 Patient Name: Dr: Cynthia Allen Pge: 21 Gender Female Blood Pressule: 126,84 mmHg Pulse: bpm Temperature: 99.4F Diagncsis She campaign little nearenter their institution: Medications - Developmentsoomg Once daily Doctor Notes Pequire human public health tonight Buildingditterent fullopen discover detailaudience. Arrive attack all form method everything magazine much: Doctor: Dr: Fcoe Spence Signature:",0.463768115942029,0.10795454545454546,0.6666666666666666,0
+doc_6,TrOCR,"ABC Multispecialty Hospital
+Visit ID: ceb81f9d-7914-4120-88dc-d19f3e351128
+Date: 2025-07-16
+
+Patient Name: Sonya Johnston
+Age: 81    Gender: Male
+Blood Pressure: 121/84 mmHg    Pulse: 90 bpm    Temperature: 98.8 F
+
+Diagnosis:
+Interest level rock pull worker better.
+
+Medications:
+- Interesting 250mg, Twice daily
+
+Doctor Notes:
+Eat couple large instead. Leg themselves away space task. Anything yourself structure why.
+
+Doctor: Dr. Brandon Hopkins
+Signature: ________________",0 0,1.0,0.9934924078091106,0.008620689655172414,0
+doc_6,Donut,"ABC Multispecialty Hospital
+Visit ID: ceb81f9d-7914-4120-88dc-d19f3e351128
+Date: 2025-07-16
+
+Patient Name: Sonya Johnston
+Age: 81    Gender: Male
+Blood Pressure: 121/84 mmHg    Pulse: 90 bpm    Temperature: 98.8 F
+
+Diagnosis:
+Interest level rock pull worker better.
+
+Medications:
+- Interesting 250mg, Twice daily
+
+Doctor Notes:
+Eat couple large instead. Leg themselves away space task. Anything yourself structure why.
+
+Doctor: Dr. Brandon Hopkins
+Signature: ________________",<s_docvqa><s_question>what is written?</s_question> 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 2 2 2 2 1 1 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1> 1> 1> 1> 1> 1> 1> 1> 1> 1> 1> 1> 1>,7.9,1.9696312364425164,0.00414651002073255,0
+doc_6,Pix2Struct,"ABC Multispecialty Hospital
+Visit ID: ceb81f9d-7914-4120-88dc-d19f3e351128
+Date: 2025-07-16
+
+Patient Name: Sonya Johnston
+Age: 81    Gender: Male
+Blood Pressure: 121/84 mmHg    Pulse: 90 bpm    Temperature: 98.8 F
+
+Diagnosis:
+Interest level rock pull worker better.
+
+Medications:
+- Interesting 250mg, Twice daily
+
+Doctor Notes:
+Eat couple large instead. Leg themselves away space task. Anything yourself structure why.
+
+Doctor: Dr. Brandon Hopkins
+Signature: ________________",What text is written?.>,1.0,0.9587852494577006,0.008298755186721992,0
+doc_6,EasyOCR,"ABC Multispecialty Hospital
+Visit ID: ceb81f9d-7914-4120-88dc-d19f3e351128
+Date: 2025-07-16
+
+Patient Name: Sonya Johnston
+Age: 81    Gender: Male
+Blood Pressure: 121/84 mmHg    Pulse: 90 bpm    Temperature: 98.8 F
+
+Diagnosis:
+Interest level rock pull worker better.
+
+Medications:
+- Interesting 250mg, Twice daily
+
+Doctor Notes:
+Eat couple large instead. Leg themselves away space task. Anything yourself structure why.
+
+Doctor: Dr. Brandon Hopkins
+Signature: ________________",ABC Multispecialty Hcspital VisitID ceb81f9d-7914-4120-88dc-d19/3e351128 Date: 2025-07-16 Patient Name: Sonya Johnston Age: 81 Gender: Male Blood Pressure: 121/84 mmHg Pulse: 90 bpm Temperature: 98.8 Diagncsis Interest level rock pullworker better. Medications Interesting 250mg Tivice daily Doctor Notes Eatcouple large instead Leg themselvesaway space task Anything yourselfstructure why: Doctor: Dr: Brandon Hopkins Signature:,0.4,0.08676789587852494,0.7617977528089888,0
+doc_7,TrOCR,"ABC Multispecialty Hospital
+Visit ID: dd59ba71-36b8-4481-bb3a-4e3e7c52fa17
+Date: 2025-07-16
+
+Patient Name: Sarah Martin
+Age: 49    Gender: Male
+Blood Pressure: 114/74 mmHg    Pulse: 62 bpm    Temperature: 98.1 F
+
+Diagnosis:
+Enter six lawyer institution whatever yet.
+
+Medications:
+- Only 500mg, Once daily
+Recently 1g, After meals
+
+Doctor Notes:
+Couple design around save. Security arm once me. Church whether bag control organization push dog.
+
+Doctor: Dr. Anthony Gray
+Signature: ________________",1953 54,1.0,0.9896694214876033,0.012219959266802444,0
+doc_7,Donut,"ABC Multispecialty Hospital
+Visit ID: dd59ba71-36b8-4481-bb3a-4e3e7c52fa17
+Date: 2025-07-16
+
+Patient Name: Sarah Martin
+Age: 49    Gender: Male
+Blood Pressure: 114/74 mmHg    Pulse: 62 bpm    Temperature: 98.1 F
+
+Diagnosis:
+Enter six lawyer institution whatever yet.
+
+Medications:
+- Only 500mg, Once daily
+Recently 1g, After meals
+
+Doctor Notes:
+Couple design around save. Security arm once me. Church whether bag control organization push dog.
+
+Doctor: Dr. Anthony Gray
+Signature: ________________",<s_docvqa><s_question>what is written?</s_question>....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................,1.0,1.06198347107438,0.007905138339920948,0
+doc_7,Pix2Struct,"ABC Multispecialty Hospital
+Visit ID: dd59ba71-36b8-4481-bb3a-4e3e7c52fa17
+Date: 2025-07-16
+
+Patient Name: Sarah Martin
+Age: 49    Gender: Male
+Blood Pressure: 114/74 mmHg    Pulse: 62 bpm    Temperature: 98.1 F
+
+Diagnosis:
+Enter six lawyer institution whatever yet.
+
+Medications:
+- Only 500mg, Once daily
+Recently 1g, After meals
+
+Doctor Notes:
+Couple design around save. Security arm once me. Church whether bag control organization push dog.
+
+Doctor: Dr. Anthony Gray
+Signature: ________________",What text is written?.> <img_src=1000000000000,1.0,0.9483471074380165,0.019011406844106463,0
+doc_7,EasyOCR,"ABC Multispecialty Hospital
+Visit ID: dd59ba71-36b8-4481-bb3a-4e3e7c52fa17
+Date: 2025-07-16
+
+Patient Name: Sarah Martin
+Age: 49    Gender: Male
+Blood Pressure: 114/74 mmHg    Pulse: 62 bpm    Temperature: 98.1 F
+
+Diagnosis:
+Enter six lawyer institution whatever yet.
+
+Medications:
+- Only 500mg, Once daily
+Recently 1g, After meals
+
+Doctor Notes:
+Couple design around save. Security arm once me. Church whether bag control organization push dog.
+
+Doctor: Dr. Anthony Gray
+Signature: ________________",ABC Multispecialty Hcspital Visit ID ddsgba71-3818-4481-bb3a-4e3e7c52ta17 Date: 2025-07-16 Patient Name: Sarah Martin Age: 49 Gender: Male Blood Pressure: 11474mmHg Pulse. 62 bpm Temperature  98.1 Diagncsis Enter six lawyer institution whateveryet Medications Only 500mg Once daily Fecently Ig After meals Doctor Notes Couple design around save. Security arm once me. Church whether bag controlorganization push dog: Doctor: Dr: Anthony Gray Signature:,0.3333333333333333,0.09297520661157024,0.6909090909090909,0
+doc_8,TrOCR,"ABC Multispecialty Hospital
+Visit ID: 14fcdd54-9e8f-4965-8a2c-827e98326856
+Date: 2025-07-16
+
+Patient Name: Steve Sanchez
+Age: 23    Gender: Female
+Blood Pressure: 103/79 mmHg    Pulse: 87 bpm    Temperature: 98.7 F
+
+Diagnosis:
+Daughter respond draw how public.
+
+Medications:
+- First 500mg, Twice daily
+Lot 1g, Once daily
+
+Doctor Notes:
+Act perform none beyond. Defense enter value thing these hard citizen. Region particularly would pressure account stage federal.
+
+Doctor: Dr. Kevin Mills
+Signature: ________________",0 0,1.0,0.9940357852882704,0.007905138339920948,0
+doc_8,Donut,"ABC Multispecialty Hospital
+Visit ID: 14fcdd54-9e8f-4965-8a2c-827e98326856
+Date: 2025-07-16
+
+Patient Name: Steve Sanchez
+Age: 23    Gender: Female
+Blood Pressure: 103/79 mmHg    Pulse: 87 bpm    Temperature: 98.7 F
+
+Diagnosis:
+Daughter respond draw how public.
+
+Medications:
+- First 500mg, Twice daily
+Lot 1g, Once daily
+
+Doctor Notes:
+Act perform none beyond. Defense enter value thing these hard citizen. Region particularly would pressure account stage federal.
+
+Doctor: Dr. Kevin Mills
+Signature: ________________",<s_docvqa><s_question>what is written?</s_question> Date: 2026-07-18 ARC Multisssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>,0.9852941176470589,0.9562624254473161,0.03165182987141444,0
+doc_8,Pix2Struct,"ABC Multispecialty Hospital
+Visit ID: 14fcdd54-9e8f-4965-8a2c-827e98326856
+Date: 2025-07-16
+
+Patient Name: Steve Sanchez
+Age: 23    Gender: Female
+Blood Pressure: 103/79 mmHg    Pulse: 87 bpm    Temperature: 98.7 F
+
+Diagnosis:
+Daughter respond draw how public.
+
+Medications:
+- First 500mg, Twice daily
+Lot 1g, Once daily
+
+Doctor Notes:
+Act perform none beyond. Defense enter value thing these hard citizen. Region particularly would pressure account stage federal.
+
+Doctor: Dr. Kevin Mills
+Signature: ________________",What text is written?.>,1.0,0.9622266401590457,0.011450381679389313,0
+doc_8,EasyOCR,"ABC Multispecialty Hospital
+Visit ID: 14fcdd54-9e8f-4965-8a2c-827e98326856
+Date: 2025-07-16
+
+Patient Name: Steve Sanchez
+Age: 23    Gender: Female
+Blood Pressure: 103/79 mmHg    Pulse: 87 bpm    Temperature: 98.7 F
+
+Diagnosis:
+Daughter respond draw how public.
+
+Medications:
+- First 500mg, Twice daily
+Lot 1g, Once daily
+
+Doctor Notes:
+Act perform none beyond. Defense enter value thing these hard citizen. Region particularly would pressure account stage federal.
+
+Doctor: Dr. Kevin Mills
+Signature: ________________",ABC Multispecialty Hcspital Visit ID 14fdd54 9e8t-4985-8a2c 827e98328856 Date: 2025-07-16 Patient Name: Steve Sanchez Pge: 23 Gender: Female Blood Pressure: 103/79 mmHg Pulse. 87 bom Temperature: 98.7 Diagncsis Daughter respond draw how public: Medications First 500mg Twice daily Lot Ig Once daily Doctor Notes Pct perform none beyond: Delense enter alue thing these hard citizen Region particularly would pressure accountstage federal Doctor: Dr: Kevin Mills Signature:,0.38235294117647056,0.09542743538767395,0.811088295687885,0
+doc_9,TrOCR,"ABC Multispecialty Hospital
+Visit ID: be0f051b-1b66-45a9-a3c4-36571d8cbbac
+Date: 2025-07-16
+
+Patient Name: Teresa Taylor
+Age: 42    Gender: Male
+Blood Pressure: 133/74 mmHg    Pulse: 97 bpm    Temperature: 97.0 F
+
+Diagnosis:
+Data plant enough major town suffer.
+
+Medications:
+- Best 250mg, Twice daily
+Protect 1g, Twice daily
+
+Doctor Notes:
+Analysis four capital woman claim. Necessary into act away third tough. Along hard need involve among half value.
+
+Doctor: Dr. Denise Jacobs
+Signature: ________________",0 0,1.0,0.9939393939393939,0.0,0
+doc_9,Donut,"ABC Multispecialty Hospital
+Visit ID: be0f051b-1b66-45a9-a3c4-36571d8cbbac
+Date: 2025-07-16
+
+Patient Name: Teresa Taylor
+Age: 42    Gender: Male
+Blood Pressure: 133/74 mmHg    Pulse: 97 bpm    Temperature: 97.0 F
+
+Diagnosis:
+Data plant enough major town suffer.
+
+Medications:
+- Best 250mg, Twice daily
+Protect 1g, Twice daily
+
+Doctor Notes:
+Analysis four capital woman claim. Necessary into act away third tough. Along hard need involve among half value.
+
+Doctor: Dr. Denise Jacobs
+Signature: ________________",<s_docvqa><s_question>what is written?</s_question> 1 d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d db d d d d d d d d d ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd,3.3333333333333335,1.8686868686868687,0.00398406374501992,0
+doc_9,Pix2Struct,"ABC Multispecialty Hospital
+Visit ID: be0f051b-1b66-45a9-a3c4-36571d8cbbac
+Date: 2025-07-16
+
+Patient Name: Teresa Taylor
+Age: 42    Gender: Male
+Blood Pressure: 133/74 mmHg    Pulse: 97 bpm    Temperature: 97.0 F
+
+Diagnosis:
+Data plant enough major town suffer.
+
+Medications:
+- Best 250mg, Twice daily
+Protect 1g, Twice daily
+
+Doctor Notes:
+Analysis four capital woman claim. Necessary into act away third tough. Along hard need involve among half value.
+
+Doctor: Dr. Denise Jacobs
+Signature: ________________",What text is written?.>,1.0,0.9616161616161616,0.007751937984496124,0
+doc_9,EasyOCR,"ABC Multispecialty Hospital
+Visit ID: be0f051b-1b66-45a9-a3c4-36571d8cbbac
+Date: 2025-07-16
+
+Patient Name: Teresa Taylor
+Age: 42    Gender: Male
+Blood Pressure: 133/74 mmHg    Pulse: 97 bpm    Temperature: 97.0 F
+
+Diagnosis:
+Data plant enough major town suffer.
+
+Medications:
+- Best 250mg, Twice daily
+Protect 1g, Twice daily
+
+Doctor Notes:
+Analysis four capital woman claim. Necessary into act away third tough. Along hard need involve among half value.
+
+Doctor: Dr. Denise Jacobs
+Signature: ________________",ABC Multispecialty Hcspital Visit ID beolslb1L86-45a9-a304-3857 Id8cbbac Date: 2025-07-16 Patient Name: Teresa Taylor Pge: 42 Gender: Male Blood Pressule: 133774 mmHg Pulse. 97 bpm Temperature: 97.0 F Diagncsis Data plantenough major town suffer: Medications Best 250mg Twice daily Protect Ig Twice daily Doctor Notes Analysis fourcapitalwoman claim Necessary intoactaway third tough Along hard need involve among halfvalue. Doctor: Dr: Denise Jacobs Signature:,0.42028985507246375,0.10909090909090909,0.7761506276150628,0
